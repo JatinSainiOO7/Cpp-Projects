@@ -1,6 +1,0 @@
-﻿  main.cpp
-C:\Users\jatin\OneDrive\Desktop\C++\projects\CGPA_calcutor\CGPA_calcutor\main.cpp(11,9): warning C4200: nonstandard extension used: zero-sized array in struct/union
-      C:\Users\jatin\OneDrive\Desktop\C++\projects\CGPA_calcutor\CGPA_calcutor\main.cpp(11,9):
-      This member will be ignored by a defaulted constructor or copy/move assignment operator
-  
-  CGPA_calcutor.vcxproj -> C:\Users\jatin\OneDrive\Desktop\C++\projects\CGPA_calcutor\x64\Debug\CGPA_calcutor.exe
